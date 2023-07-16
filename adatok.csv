@@ -1,4 +1,5 @@
-﻿;manufacturer;series;price;fuel;date;Kilowatts;Horsepower;Kilometers
+sep=';'
+;manufacturer;series;price;fuel;date;Kilowatts;Horsepower;Kilometers
 200;chevrot;camaro;19990000;Benzin;2019;333;453;18800
 582;mercedes-benz;s_350;19990000;Dízel;2016;190;258;38480
 861;audi;a6;19890000;Dízel;2021;170;231;166000
